@@ -159,7 +159,7 @@ else:
  print("No frequent sequential patterns found in Party Wear.")
 ```
 ### Output:
-![image](https://github.com/MSowmya28/WDM_EXP3/assets/94154791/83b68020-f021-4359-9603-3d22fbfaac67)
+![web ex3 1](https://github.com/MSowmya28/WDM_EXP3/assets/94154791/8f9aeb05-1d3f-479f-bbc8-4921230cbc31)
 
 
 ### Visualization:
